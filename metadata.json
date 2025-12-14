@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Filter Builder",
+  "description": "A recursive React component for building complex nested data filters with type-safety and visual hierarchy.",
+  "requestFramePermissions": []
+}

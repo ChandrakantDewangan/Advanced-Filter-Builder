@@ -2,7 +2,7 @@
 
 A powerful, recursive, and type-safe React component for building complex nested data filters. Designed with a clean UI inspired by modern data grid tools, it supports infinite nesting of AND/OR groups and automatically adapts input fields based on column data types.
 
-![Advanced Filter Builder Screenshot](screenshot.png)
+![Application Screenshot](./image.png)
 
 > **Note**: The UI is styled to match the reference image provided, featuring color-coded inputs (Green for Fields, Orange for Operators) and a clean, hierarchical tree structure.
 
